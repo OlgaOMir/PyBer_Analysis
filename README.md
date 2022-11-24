@@ -17,7 +17,9 @@ There is a description of the differences in ride-sharing data among the differe
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
-Below are three business recommencations to the CEO to addressing the disparities described above:
-  1. 
-
+Below are three business recommendations to the CEO to addressing the disparities described above:
+  
+  1. lkj
+  2. kjh
+  3. gathering additional data on the duration of the ride-sharing trip based on the city type, which would further aid in understanding of the disparities and help share the overall corporate stratefy.
 
