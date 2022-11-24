@@ -7,11 +7,11 @@ The purpose of this analysis was to provide the CEO and the executive team of Py
 ## Results
 
 There is a noticeable imbalance among the urban, suburban and rural cities when it comes to the total weekly fares. Based on the initial analysis of the provided data set, the total numbers of rides and drives in rural areas is significantly smaller compared to urban and suburban cities. 
-![Table](https://myoctocat.com/assets/images/base-octocat.svg) 
+![Table](https://github.com/OlgaOMir/PyBer_Analysis/blob/main/analysis/PyBer_summary_data.png) 
 
 The below graph perfectly illustrates a huge gap between the weekly fares of urban, suburban and urban cities. 
 
-![Graph](https://myoctocat.com/assets/images/base-octocat.svg)
+![Graph](https://github.com/OlgaOMir/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 
