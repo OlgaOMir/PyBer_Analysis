@@ -7,19 +7,17 @@ The purpose of this analysis was to provide the CEO and the executive team of Py
 ## Results
 
 There is a noticeable imbalance among the urban, suburban and rural cities when it comes to the total weekly fares. Based on the initial analysis of the provided data set, the total numbers of rides and drives in rural areas is significantly smaller compared to urban and suburban cities. 
+PICTURE _ TABLE 
 
+The below graph perfectly illustrates a huge gap between the weekly fares of urban, suburban and urban cities. 
 
-
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+PICTURE_ GRAPH
 
 ## Summary
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
 Below are three business recommendations to the CEO to addressing the disparities described above:
   
-  1. lkj
-  2. kjh
-  3. gathering additional data on the duration of the ride-sharing trip based on the city type, which would further aid in understanding of the disparities and help share the overall corporate stratefy.
+  1. the executive team needs to increase the number of drivers in rural cities
+  2. gathering additional data on the duration of the ride-sharing trip based on the city type, which would further aid in understanding of the disparities and help share the overall corporate strategy
+  3. gathering information on the amount of fare requests would assist in understanding if the driver numbers adequatey represent the demand for rides 
 
