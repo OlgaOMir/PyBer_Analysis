@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Module 5
+
 
 ## Overview of the analysis
 The purpose of this analysis was to provide the CEO and the executive team of PyBer ridesharing corporation with the ride-sharing data by city type. Using Pandas libraries, the Jupyter Notebook, and Matplotlib I was able to create a multiple-line graphs highliting the relationshipt between the type of city and the total weekly fares. The analysis will be used to address any disparities amonth the city types and will aid the CEO and the executive team in finalizing a strategic plan. 
